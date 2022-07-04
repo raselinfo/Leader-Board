@@ -1,1 +1,8 @@
 Mearge conflict will heppen
+this is master stash text
+.
+.
+.
+.
+m
+n
