@@ -2,4 +2,4 @@ this is rasel text
 something new
 something new 2
 this update from document branch
-this is for master branch
+this update only for New Branch
